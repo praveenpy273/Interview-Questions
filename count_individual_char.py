@@ -12,3 +12,4 @@ for i in letter:
 
 for k,v in n_list.items():
     print(v,k, sep='',end =' ')
+
